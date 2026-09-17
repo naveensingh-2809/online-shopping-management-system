@@ -1,0 +1,4 @@
+1///System Admin///admin@shopping.com///240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9///ADMIN//////
+2///John Doe///john@gmail.com///b041c0aeb35bb0fa4aa668ca5a920b590196fdaf9a00eb852c9b7f4d123cc6d6///CUSTOMER///123 Park Street, New York, NY///9123456789
+3///Alice Smith///alice@gmail.com///a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3///CUSTOMER///456 Elm Avenue, Boston, MA///9898989898
+4///Test User///testuser_1789645163462@gmail.com///d785d63511a645a24875a109e0ef1da6560dd94d149b6734949a96556cb3449f///CUSTOMER///123 Main St///5551234

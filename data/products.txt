@@ -1,0 +1,11 @@
+1///Wireless Noise-Canceling Headphones///Electronics///High quality over-ear bluetooth headphones with active noise cancellation.///149.99///24
+2///Smartphone Pro 128GB///Electronics///Flagship smartphone featuring AMOLED display and triple camera system.///799.0///15
+3///4K Ultra HD Smart Monitor 27"///Electronics///Crisp 4K resolution monitor with USB-C connectivity for work and gaming.///320.5///10
+4///Men Cotton Casual Shirt///Clothing///100% breathable cotton slim-fit casual button-down shirt.///29.99///50
+5///Women Classic Denim Jacket///Clothing///Timeless denim jacket with durable stitching and modern fit.///49.95///30
+6///Java Programming Masterclass///Books///Comprehensive guide covering Java OOP, Data Structures, Threads, and Swing.///39.99///100
+7///Clean Code Architecture///Books///Essential handbook of agile software craftmanship and design patterns.///44.5///40
+8///Leather Crossbody Shoulder Bag///Accessories///Genuine handcrafted leather bag with adjustable strap and multiple zip pockets.///65.0///20
+9///Smart Fitness Smartwatch///Accessories///Waterproof fitness tracker with heart rate monitor and GPS tracking.///89.99///35
+10///Ergonomic Memory Foam Pillow///Home///Orthopedic neck support pillow for comfortable sleeping posture.///24.99///45
+11///Stainless Steel Thermal Flask 1L///Home///Double-wall vacuum insulated water bottle keeping drinks hot/cold for 24 hours.///18.5///60
